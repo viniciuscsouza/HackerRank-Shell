@@ -131,4 +131,3 @@ for ((i=1;i<=num_rows;i++)) do
     done
     printf "\n"
 done
-3|
